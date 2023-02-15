@@ -18,8 +18,6 @@ I am an IT Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### 🔥 &nbsp; My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=fedosique&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedosique&layout=compact&theme=vision-friendly-dark)
-
 ---
 
 ### ✍️ Blog Posts : 
