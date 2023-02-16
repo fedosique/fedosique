@@ -11,7 +11,6 @@ I am an IT Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🌱 I’m currently learning Git, docker, Figma, FastAPI.
 - 💬 Ask me about project management or radioelectronics.
 - 📫 How to reach me: Telegram @falexandrov, fedor.alexandrov@gmail.com 
-- 😄 Pronouns: he/him
 
 ---
 
