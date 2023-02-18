@@ -1,6 +1,5 @@
 <h1> FEDOR ALEXANDROV </h1>
 
-### :woman_technologist: &nbsp;About Me :
 # 💫 About Me:
 🔭 I’m currently working at Sixhands.co<br>🌱 I’m currently learning Figma, Solidity, FastAPI.<br>💬 Ask me about project management, radioelectronics, travel destinations.
 
