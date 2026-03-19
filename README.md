@@ -14,12 +14,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fedosique&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✍️ Blog Posts : 
-- [Principle differences in Manufacturing / Tech projects](https://github.com/fedosique/Manufacturing-Tech-Differences)
-- [5 conclusions about "selling" communication for PMs](https://github.com/fedosique/5-results-of-PM-work/)
-- [How a product manager can become "tech-savvy" - translation of an article by L. Cheng](https://github.com/fedosique/Technical-Minimum-for-PM/)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
